@@ -60,6 +60,7 @@ currency_convertor = item_2      # Создать переменную currency_
 #                     Результат вывести в консоль (target_currency_amount, uah_item, “=”, currency_result, uah_item)
 #                     31.6 Сделать elif с остальными валютами
 
+
 if currency_convertor:
   currency_usd = usd_item
   target_currency = chf_item
